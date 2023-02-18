@@ -4,12 +4,12 @@
     <a href="linkedin.com/in/carlos-eduardo-9b2420234">Carlos Eduardo</a>👋🏽
   </h1>
   
-  <p align="center">
+  <h3 align="center">
     Sou um estudadente de Front End e atualmente curso Analise e Desenvolvimento de Sistemas na
     <a href="https://www.fiap.com.br/" target="_blank">
       FIAP
     </a>  
-  </p>
+  </h3>
 </div>
 
 
@@ -20,7 +20,9 @@
   </a>
 </div>
 
-<div align="center" valign="top"><br>
+<h3 align="center">Tecnologias que tenho familiaridade</h3>
+
+<div align="center" valign="top">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -30,16 +32,15 @@
   <img align="center" alt="tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
   <img align="center" alt="SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img align="center" alt="bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-</div><br>
+</div><br><br>
 
 <div align="center">
   <a href="linkedin.com/in/carlos-eduardo-9b2420234" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:cardosed3@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-
+</div><br>
 
 <div align="center">
-  <p>Feito com :heart:</p>
+  <p>Feito com :heart: por SAIKO</p>
 </div>
 
 
