@@ -37,11 +37,6 @@
   <a href="mailto:cardosed3@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<div align="center">
-
-  ![Snake animation]
-  
-</div>
 
 <div align="center">
   <p>Feito com :heart:</p>
