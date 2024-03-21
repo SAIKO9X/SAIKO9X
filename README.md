@@ -8,7 +8,7 @@
    <br>
 
   <p>
-    Meu foco principal é em Back End, especialmente em <strong>Java</strong> e <strong>Spring</strong>.
+    Meu foco principal é em Back End, especialmente em <h3>Java</h3> e <h3>Spring</h3>.
     Durante minha formação, mergulhei em uma ampla gama de tópicos essenciais, explorando minuciosamente o ecossistema do Spring Boot desde o início.
     Desde os conceitos fundamentais e temas como testes, segurança, implantação e documentação, busquei compreender cada aspecto do desenvolvimento em Java.
     Aprendi a parte de implantação na AWS, implementação do Spring Security, a documentação de código usando Swagger, testes unitários e de integração.
