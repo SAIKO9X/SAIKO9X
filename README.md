@@ -10,7 +10,7 @@
   <p>
     Meu foco principal é em Back End, especialmente em <strong>Java</strong> e <strong>Spring</strong>.
     Tenho conhecimento do ecossistema do Spring Boot os conceitos fundamentais e temas como testes, segurança, implantação e documentação.
-    Aprendi a parte de implantação na AWS, implementação do Spring Security, a criar a documentação de código usando Swagger.
+    Aprendi a parte de implantação na AWS, implementação do Spring Security, documentação com Swagger.
     Além disso, explorei o Jacoco. E tenho habilidades no desenvolvimento de front-end usando o Thymeleaf e o React.
   </p>
 </div>
