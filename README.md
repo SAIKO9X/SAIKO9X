@@ -1,25 +1,20 @@
-<div>
-  <h1 align="center">
-    Oi Tudo bem? Eu sou o 
-    <a href="linkedin.com/in/carlos-aleixo">Carlos Eduardo</a>👋🏽
-  </h1>
+<div align="center">
+  <h1>Olá, tudo bem? Meu nome é <a href="https://www.linkedin.com/in/carlosealeixo" target="_blank">Carlos Eduardo</a>! 👋🏽</h1>
   
-  <h3 align="center">
-    Sou um desenvolvedor web e atualmente curso Analise e Desenvolvimento de Sistemas na
-    <a href="https://www.fiap.com.br/" target="_blank">
-      FIAP
-    </a>
-    Meu foco principal é em Back End, especialmente em Java e Spring. Mergulhei em uma ampla gama de tópicos essenciais, explorando minuciosamente o ecossistema do Spring Boot desde o início. Desde os conceitos
-    fundamentais e temas como testes, segurança, implantação e documentação, busquei compreender cada aspecto do desenvolvimento em Java. Aprendi a parte de implantação na AWS, implementação do Spring Security, a
-    documentação de código usando Swagger, testes unitários e de integração. Além disso, explorei o Jacoco. Tenho habilidades no desenvolvimento de front-end usando o Thymeleaf e o React.
+  <h3>
+    Sou um desenvolvedor web e atualmente estou cursando Análise e Desenvolvimento de Sistemas na <a href="https://www.fiap.com.br/" target="_blank">FIAP</a>.
+    Meu foco principal é em Back End, especialmente em Java e Spring.
+    Durante minha formação, mergulhei em uma ampla gama de tópicos essenciais, explorando minuciosamente o ecossistema do Spring Boot desde o início.
+    Desde os conceitos fundamentais e temas como testes, segurança, implantação e documentação, busquei compreender cada aspecto do desenvolvimento em Java.
+    Aprendi a parte de implantação na AWS, implementação do Spring Security, a documentação de código usando Swagger, testes unitários e de integração.
+    Além disso, explorei o Jacoco. Tenho habilidades no desenvolvimento de front-end usando o Thymeleaf e o React.
   </h3>
 </div>
 
-
 <div align="center">
   <a href="https://github.com/SAIKO9X">
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=saiko9x&show_icons=true&theme=dracula" />
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=saiko9x&show_icons=true&theme=dracula" />
+    <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=saiko9x&show_icons=true&theme=dracula" />
+    <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=saiko9x&show_icons=true&theme=dracula" />
   </a>
 </div>
 
@@ -37,11 +32,9 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-        
 </div><br><br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/carlosealeixo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:cardosed3@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><br>
-  
