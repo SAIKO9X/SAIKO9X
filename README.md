@@ -3,7 +3,7 @@
   
   <h3>
     Sou um desenvolvedor web e atualmente estou cursando Análise e Desenvolvimento de Sistemas na <a href="https://www.fiap.com.br/" target="_blank">FIAP</a>.
-    </br>
+    <br><br>
     Meu foco principal é em Back End, especialmente em Java e Spring.
     Durante minha formação, mergulhei em uma ampla gama de tópicos essenciais, explorando minuciosamente o ecossistema do Spring Boot desde o início.
     Desde os conceitos fundamentais e temas como testes, segurança, implantação e documentação, busquei compreender cada aspecto do desenvolvimento em Java.
