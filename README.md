@@ -3,14 +3,19 @@
   
   <h3>
     Sou um desenvolvedor web e atualmente estou cursando Análise e Desenvolvimento de Sistemas na <a href="https://www.fiap.com.br/" target="_blank">FIAP</a>.
-    <br><br>
+  </h3>
+
+   <br><br>
+
+  <p>
     Meu foco principal é em Back End, especialmente em Java e Spring.
     Durante minha formação, mergulhei em uma ampla gama de tópicos essenciais, explorando minuciosamente o ecossistema do Spring Boot desde o início.
     Desde os conceitos fundamentais e temas como testes, segurança, implantação e documentação, busquei compreender cada aspecto do desenvolvimento em Java.
     Aprendi a parte de implantação na AWS, implementação do Spring Security, a documentação de código usando Swagger, testes unitários e de integração.
     Além disso, explorei o Jacoco. Tenho habilidades no desenvolvimento de front-end usando o Thymeleaf e o React.
-  </h3>
+  </p>
 </div>
+<br><br>
 
 <div align="center">
   <a href="https://github.com/SAIKO9X">
