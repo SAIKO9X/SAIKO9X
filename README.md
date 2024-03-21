@@ -5,7 +5,7 @@
     Sou um desenvolvedor web e atualmente estou cursando Análise e Desenvolvimento de Sistemas na <a href="https://www.fiap.com.br/" target="_blank">FIAP</a>.
   </h3>
 
-   <br><br>
+   <br>
 
   <p>
     Meu foco principal é em Back End, especialmente em Java e Spring.
@@ -15,6 +15,7 @@
     Além disso, explorei o Jacoco. Tenho habilidades no desenvolvimento de front-end usando o Thymeleaf e o React.
   </p>
 </div>
+
 <br><br>
 
 <div align="center">
