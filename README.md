@@ -5,10 +5,13 @@
   </h1>
   
   <h3 align="center">
-    Sou um estudadente de Front End e atualmente curso Analise e Desenvolvimento de Sistemas na
+    Sou um desenvolvedor web e atualmente curso Analise e Desenvolvimento de Sistemas na
     <a href="https://www.fiap.com.br/" target="_blank">
       FIAP
-    </a>  
+    </a>
+    Meu foco principal é em Back End, especialmente em Java e Spring. Mergulhei em uma ampla gama de tópicos essenciais, explorando minuciosamente o ecossistema do Spring Boot desde o início. Desde os conceitos
+    fundamentais e temas como testes, segurança, implantação e documentação, busquei compreender cada aspecto do desenvolvimento em Java. Aprendi a parte de implantação na AWS, implementação do Spring Security, a
+    documentação de código usando Swagger, testes unitários e de integração. Além disso, explorei o Jacoco. Tenho habilidades no desenvolvimento de front-end usando o Thymeleaf e o React.
   </h3>
 </div>
 
