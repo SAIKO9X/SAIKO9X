@@ -17,13 +17,6 @@
 
 <br>
 
-<div align="center">
-  <a href="https://github.com/SAIKO9X">
-    <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=saiko9x&show_icons=true&theme=dracula" />
-    <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=saiko9x&show_icons=true&theme=dracula" />
-  </a>
-</div>
-
 <h3 align="center">Tecnologias que tenho familiaridade</h3>
 
 <div align="center" valign="top">
