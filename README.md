@@ -2,7 +2,7 @@
   <h1>Olá, tudo bem? Meu nome é <a href="https://www.linkedin.com/in/carlosealeixo" target="_blank">Carlos Eduardo</a>! 👋🏽</h1>
   
   <h3>
-    Sou um desenvolvedor web e atualmente estou cursando Análise e Desenvolvimento de Sistemas na <a href="https://www.fiap.com.br/" target="_blank">FIAP</a>.
+    Sou um desenvolvedor web e sou formado em Análise e Desenvolvimento de Sistemas na <a href="https://www.fiap.com.br/" target="_blank">FIAP</a>.
   </h3>
 
    <br>
